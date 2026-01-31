@@ -18,7 +18,19 @@ function Services() {
       });
     }, []);
   return (
-    <div>Services</div>
+    <div id='services' className='w-full bg-gray-200 lg:px-22 px-5 lg:py-22 py-20 flex flex-col justify-between lg:items-center items-left gap-5'>
+      <h1 data-aos="zoom-in" data-aos-delay="100" className='lg:text-5xl text-3xl font-fakhwang font-semibold'>Discover your next dream destination</h1>
+      <p data-aos="zoom-in" data-aos-delay="200" className='text-gray-500 lg:w-[60%] w-full lg:text-center text-left'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, at.</p>
+      <hr data-aos="zoom-in" data-aos-delay="300" className='lg:w-[7%] w-[20%] border-2 border-orange-600'/>
+
+      {/*services grids here */}
+      
+      {/*services roe starts here */}
+
+      <div data-aos="zoom-in" data-aos-delay="400" id='first-row' className='w-full flex lg:flex-row flex-col justify-between items-center gap-5 mt-5'>
+        
+      </div>
+    </div>
   )
 }
 
