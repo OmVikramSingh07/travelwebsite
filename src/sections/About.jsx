@@ -32,7 +32,7 @@ function About() {
           data-aos="zoom-in"
           data-aos-delay="200"
           src={aboutimg2}
-          className="rounded-md w-[40%] border-10 border-white -mt-[150px] -ml-[30px]-rotate-2"
+          className="rounded-md w-[40%] border-10 border-white -mt-37.5 -ml-[30px]-rotate-2"
           alt=""
         />
       </div>

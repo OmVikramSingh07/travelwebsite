@@ -43,9 +43,9 @@ function Services() {
           {/* service 1 */}
           <div
             style={{ backgroundImage: `url(${service1})` }}
-            className='relative bg-cover bg-center h-[350px] rounded-md p-8 flex items-end'
+            className='relative bg-cover bg-center h-87.5 rounded-md p-8 flex items-end'
           >
-            <div className='absolute inset-0 rounded-md bg-gradient-to-t from-black/60 via-black/40 to-white/10'></div>
+            <div className='absolute inset-0 rounded-md bg-linear-to-t from-black/60 via-black/40 to-white/10'></div>
             <div className='relative z-10 w-full flex justify-between'>
               <div>
                 <h1 className='text-white text-2xl font-semibold'>Padar Island</h1>
@@ -60,9 +60,9 @@ function Services() {
           {/* service 2 */}
           <div
             style={{ backgroundImage: `url(${service2})` }}
-            className='relative bg-cover bg-center h-[350px] rounded-md p-8 flex items-end'
+            className='relative bg-cover bg-center h-87.5 rounded-md p-8 flex items-end'
           >
-            <div className='absolute inset-0 rounded-md bg-gradient-to-t from-black/60 via-black/40 to-white/10'></div>
+            <div className='absolute inset-0 rounded-md bg-linear-to-t from-black/60 via-black/40 to-white/10'></div>
             <div className='relative z-10 w-full flex justify-between'>
               <div>
                 <h1 className='text-white text-2xl font-semibold'>Bromo Mountain</h1>
@@ -79,9 +79,9 @@ function Services() {
         <div className='lg:w-[50%] w-full'>
           <div
             style={{ backgroundImage: `url(${service3})` }}
-            className='relative bg-cover bg-center h-[725px] rounded-md p-8 flex items-end'
+            className='relative bg-cover bg-center h-181.25 rounded-md p-8 flex items-end'
           >
-            <div className='absolute inset-0 rounded-md bg-gradient-to-t from-black/60 via-black/40 to-white/10'></div>
+            <div className='absolute inset-0 rounded-md bg-linear-to-t from-black/60 via-black/40 to-white/10'></div>
             <div className='relative z-10 w-full flex justify-between'>
               <div>
                 <h1 className='text-white text-2xl font-semibold'>Raja Ampat</h1>
@@ -102,9 +102,9 @@ function Services() {
         {/* service 4 */}
         <div
           style={{ backgroundImage: `url(${service4})` }}
-          className='relative bg-cover bg-center h-[300px] rounded-md p-8 flex items-end'
+          className='relative bg-cover bg-center h-75 rounded-md p-8 flex items-end'
         >
-          <div className='absolute inset-0 rounded-md bg-gradient-to-t from-black/60 via-black/40 to-white/10'></div>
+          <div className='absolute inset-0 rounded-md bg-linear-to-t from-black/60 via-black/40 to-white/10'></div>
           <div className='relative z-10 w-full flex justify-between'>
             <div>
               <h1 className='text-white text-xl font-semibold'>Maldives</h1>
@@ -119,9 +119,9 @@ function Services() {
         {/* service 5 */}
         <div
           style={{ backgroundImage: `url(${service5})` }}
-          className='relative bg-cover bg-center h-[300px] rounded-md p-8 flex items-end'
+          className='relative bg-cover bg-center h-75 rounded-md p-8 flex items-end'
         >
-          <div className='absolute inset-0 rounded-md bg-gradient-to-t from-black/60 via-black/40 to-white/10'></div>
+          <div className='absolute inset-0 rounded-md bg-linear-to-t from-black/60 via-black/40 to-white/10'></div>
           <div className='relative z-10 w-full flex justify-between'>
             <div>
               <h1 className='text-white text-xl font-semibold'>Santorini</h1>
@@ -136,9 +136,9 @@ function Services() {
         {/* service 6 */}
         <div
           style={{ backgroundImage: `url(${service6})` }}
-          className='relative bg-cover bg-center h-[300px] rounded-md p-8 flex items-end'
+          className='relative bg-cover bg-center h-75 rounded-md p-8 flex items-end'
         >
-          <div className='absolute inset-0 rounded-md bg-gradient-to-t from-black/60 via-black/40 to-white/10'></div>
+          <div className='absolute inset-0 rounded-md bg-linear-to-t from-black/60 via-black/40 to-white/10'></div>
           <div className='relative z-10 w-full flex justify-between'>
             <div>
               <h1 className='text-white text-xl font-semibold'>Swiss Alps</h1>
