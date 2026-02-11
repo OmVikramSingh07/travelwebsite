@@ -29,7 +29,7 @@ function Services() {
       </h1>
 
       <p className='text-gray-500 lg:w-[60%] text-center'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, at.
+        At GlobeSprint, discovering your next journey means unlocking new experiences, exploring hidden gems, and traveling with complete peace of mind. We transform ordinary trips into extraordinary adventures.
       </p>
 
       <hr className='lg:w-[7%] w-[20%] border-2 border-orange-600' />
