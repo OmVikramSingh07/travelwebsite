@@ -22,7 +22,7 @@ function CtaOne() {
       {/* content part */}
     <div className='relative z-10 flex felx-col justify-center items-center gap-5'>  
       <h1 data-aos="zoom-in" data-aos-delay="100" className='lg:text-5xl text-3xl font-fakhwang font-semibold text-white lg:w-[60%] w-full text-center capitalize'>Ready To Discover Your Next Destination?</h1>
-      <p data-aos="zoom-in" data-aos-delay="200" className='text-white lg:w-[50%] w-full text-lg text-center'>Ready To Discover Your Next Destination?</p>
+      <p data-aos="zoom-in" data-aos-delay="200" className='text-white lg:w-[50%] w-full text-lg text-center'>Let GlobeSprint turn your travel dreams into unforgettable memories. Book your journey today and explore the world with confidence.</p>
       <div data-aos="zoom-in" data-aos-delay="300" className='bg-white lg:p-7 p-4 rounded-full'>
           <FaPlay className='text-orange-600 text-2xl'/>
       </div>
