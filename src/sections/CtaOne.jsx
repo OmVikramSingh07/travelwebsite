@@ -21,8 +21,8 @@ function CtaOne() {
 
       {/* content part */}
     <div className='relative z-10 flex felx-col justify-center items-center gap-5'>  
-      <h1 data-aos="zoom-in" data-aos-delay="100" className='lg:text-5xl text-3xl font-fakhwang font-semibold text-white lg:w-[60%] w-full text-center capitalize'>Lorem ipsum dolor sit amet.</h1>
-      <p data-aos="zoom-in" data-aos-delay="200" className='text-white lg:w-[50%] w-full text-lg text-center'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptate voluptatum adipisci eius aliquid esse eum sequi sunt atque omnis?</p>
+      <h1 data-aos="zoom-in" data-aos-delay="100" className='lg:text-5xl text-3xl font-fakhwang font-semibold text-white lg:w-[60%] w-full text-center capitalize'>Ready To Discover Your Next Destination?</h1>
+      <p data-aos="zoom-in" data-aos-delay="200" className='text-white lg:w-[50%] w-full text-lg text-center'>Ready To Discover Your Next Destination?</p>
       <div data-aos="zoom-in" data-aos-delay="300" className='bg-white lg:p-7 p-4 rounded-full'>
           <FaPlay className='text-orange-600 text-2xl'/>
       </div>
