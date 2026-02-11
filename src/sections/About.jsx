@@ -67,7 +67,7 @@ function About() {
 
             <div className="w-[80%] flex flex-col justify-center items-start gap-1">
               <h1 className="text-black text-x1 font-medium">Best Destination</h1>
-              <p className="text-sm text-gray-500">Lorem ipsum dolor sit amet.</p>
+              <p className="text-sm text-gray-500">Best & trending destinations</p>
             </div>
 
           </div>
@@ -79,7 +79,7 @@ function About() {
 
             <div className="w-[80%] flex flex-col justify-center items-start gap-1">
               <h1 className="text-black text-x1 font-medium">Affordable Price</h1>
-              <p className="text-sm text-gray-500">Lorem ipsum dolor sit amet.</p>
+              <p className="text-sm text-gray-500">Budget-friendly travel packages.</p>
             </div>
 
           </div>
