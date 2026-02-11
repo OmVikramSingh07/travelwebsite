@@ -25,7 +25,7 @@ function Footer() {
         {/* first box */}
         <div className='lg:w-[40%] w-full'>
           <h1 className='text-3xl font-fakhwang font-semibold'>GlobesPrint</h1>
-          <p className='mt-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, vel deserunt.</p>
+          <p className='mt-5'>GlobeSprint – Turning your travel dreams into unforgettable journeys.</p>
           <div className='flex flex-col justify-between items-start gap-2 mt-5'>
             <div className='flex justify-start items-center gap-2'><IoMail className='text-orange-600 text-x1' /><p>hello@globesprint.com</p></div>
             <div className='flex justify-start items-center gap-2'><FaPhoneAlt className='text-orange-600 text-x1' /><p>+91 890 1020 101</p></div>
@@ -77,7 +77,7 @@ function Footer() {
       </div>
       <hr className='w-full border-1 border-gray-800' />
       <div id='last' className='flex justify-between items-center gap-2'>
-        <p className='text-gray-300 text-center'>Copyright 2026 GlobesPrint, All Rights Reserved.</p>
+        <p className='text-gray-300 text-center'>Copyright 2026 ©  GlobesPrint, All Rights Reserved.</p>
       </div>
     </div>
   )
