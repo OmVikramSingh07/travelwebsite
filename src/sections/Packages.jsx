@@ -22,7 +22,7 @@ function Packages() {
           <h1 data-aos="zoom-in" data-aos-delay="100" className='lg:text text-3xl font-fakhwang font-semibold text-black'>Explore our most popular tour packages</h1>
         </div>
         <div className='flex flex-col justify-between items-start gap-7'>
-          <p data-aos="zoom-in" data-aos-delay="200" className='text-gray-500 w-full text-left'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi dolorem quibusdam iste nobis pariatur alias laboriosam vel possimus nesciunt deleniti quasi, eos consectetur excepturi voluptas sed nulla rem perspiciatis! Labore.</p>
+          <p data-aos="zoom-in" data-aos-delay="200" className='text-gray-500 w-full text-left'>Choose from a wide range of domestic and international travel packages tailored to suit every budget and preference. Whether it’s a romantic getaway, family vacation, or adventure trip, we have the perfect package for you.</p>
           <hr data-aos="zoom-in" data-aos-delay="300" className='w-[15%] border-2 border-orange-600'/>
         </div>
       </div>

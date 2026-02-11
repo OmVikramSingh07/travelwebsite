@@ -52,9 +52,7 @@ function About() {
           Embark on a hilarious journey with our travel experts
         </h1>
         <p data-aos="zoom-in" data-aos-delay="500" className="text-gray-700 font-semibold">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis
-          iste sapiente deserunt incidunt! Aspernatur id odit eum culpa
-          laudantium possimus.
+          GlobeSprint is a passionate travel company dedicated to delivering exceptional travel experiences. With years of expertise and a commitment to excellence, we help travelers explore the world with confidence, convenience, and personalized care.
         </p>
         <p data-aos="zoom-in" data-aos-delay="500" className="text-gray-500">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae commodi temporibus id deserunt consectetur maxime non laborum dolorem magni eum, nesciunt, repellendus nulla voluptate. Ipsa!

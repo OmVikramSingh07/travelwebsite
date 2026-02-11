@@ -21,7 +21,7 @@ function Hero() {
         <h1 data-aos="zoom-in" data-aos-delay="100" className='lg:text-7xl text-4xl capitalize text-center font-fakhwang font-bold'>Explore every beautiful <br />
         destination</h1>
 
-        <p data-aos="zoom-in" data-aos-delay="200" className='text-lg text-center lg:w-[50%] w-full'>Lorem ipsum dolor sit amet consectetur adipisicing elit. In eius molestiae error esse velit sint placeat ipsa aliquid dolore impedit!</p>
+        <p data-aos="zoom-in" data-aos-delay="200" className='text-lg text-center lg:w-[50%] w-full'>Discover unforgettable journeys, handpicked destinations, and seamless travel experiences crafted just for you. At GlobeSprint, we turn your travel dreams into reality with comfort, safety, and unforgettable memories!</p>
 
         <button data-aos="slide-up" data-aos-delay="300" className='bg-orange-600 hover:bg-black hover:text-white px-8 py-3 font-semibold capitalize rounded-md mt-5 cursor-pointer'>Book Now</button>
       </div>
